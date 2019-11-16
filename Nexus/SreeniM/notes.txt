@@ -60,3 +60,13 @@ http://13.232.135.156:8081/repository/SreeniM_hosted_snapshot_repo/
 
 group :
 http://13.232.135.156:8081/repository/SreeniM_group_repo
+
+
+<mirrors>
+  <mirror>
+	<id>SreeniMRepo</id>
+	<name>Digital web application</name>
+	<url>http://13.232.135.156:8081/repository/SreeniM_group_repo/</url>  
+	<mirrorOf>*</mirrorOf>
+</mirror>
+  </mirrors>
