@@ -1,0 +1,20 @@
+
+
+<mirrors>
+  <mirror>
+	<id>SreeniMRepo</id>
+	<name>Digital web application</name>
+	<url>http://13.232.135.156:8081/repository/SreeniM_group_repo/</url>  
+	<mirrorOf>*</mirrorOf>
+</mirror>
+  </mirrors>
+  
+  
+  
+http://13.232.135.156:8081/repository/sridhar_hosted_mixed_repo/
+
+
+http://13.232.135.156:8081/repository/sridhar_proxy_mixed_repo/
+
+
+http://13.232.135.156:8081/repository/sridhar_group_repo/
